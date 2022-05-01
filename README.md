@@ -2,4 +2,4 @@
 
 Ideas
 Draft
-1.Web3 blockchaihn
+1.Web3 blockchain
